@@ -18,6 +18,7 @@ FUTURE
  * high scores
  * touch support
  * music and sound fx
+ * security and hack-ban
 
 
 License
